@@ -36,6 +36,7 @@ struct Const {
     static let evenMessage = "Even"
     static let shareTitleMessage = "Tell a friend"
     static let spotItCell = "mycell"
+    static let quizCell = "Quiz Time"
 
     static let dataSourceHome: [[String: Any]] = [
 
